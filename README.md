@@ -3,6 +3,7 @@
 RamanPy is a Python-based tool for capturing, visualizing, and analyzing USB-UVC Raman spectrometer data. It provides real-time spectrum visualization, dark frame correction, and spectrum overlay comparison.
 
 It focuses on being easily configurable and editable. I found existing general UVC spectrometer implementations to be too obtuse.
+![image](https://github.com/user-attachments/assets/2b8e0e56-b748-4261-b1eb-1c03184358ee)
 
 ## Features
 
