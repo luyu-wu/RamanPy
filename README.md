@@ -96,6 +96,10 @@ The system will automatically use `dark_frame.csv` if present in the working dir
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
+## xd
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+idk i just used this for caypt cause theremino isnt good for this type of thing.
+
+COUGH QUANTUM FINGERPTIN COUGH
+
+if you do end up using this feel free to chat my discord is luyu_wu
